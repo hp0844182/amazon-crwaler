@@ -1,22 +1,28 @@
-# mynodescrawler
+<h1 align="center">Welcome to mynodescrawler 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
+</p>
 
-> An electron-vue project
+> 一个亚马逊商品信息爬取网站，支持多个国家的amazon网站爬取，以及支持以下爬取方式
 
-#### Build Setup
+1. 根据商品asin爬取
+2. 根据店铺url爬取
+3. 根据关键字爬取商品
 
-``` bash
-# install dependencies
-npm install
+![](https://s2.ax1x.com/2019/09/15/ngnowR.png)
 
-# serve with hot reload at localhost:9080
-npm run dev
+![](https://s2.ax1x.com/2019/09/15/ngnTT1.png)
 
-# build electron application for production
-npm run build
+![](https://s2.ax1x.com/2019/09/15/ngnHFx.png)
+
+## Author
+
+👤 **hp0844182**
 
 
-```
+## Show your support
 
----
+Give a ⭐️ if this project helped you!
 
-This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
